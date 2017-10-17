@@ -137,3 +137,23 @@ h1 span{
 		margin: 25px auto;
 		color:#6a6a6a;
 	}
+	.testimonials{
+		 background-size: cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		height: 600px;
+		position: relative;
+		background: url("../img/01.png") no-repeat center top;
+		background-attachment: fixed;
+	}
+	.testimonials .overlay{
+		background: #111;
+		width: 100%;
+		z-index: 2;
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		opacity: 0.6;
+	}
