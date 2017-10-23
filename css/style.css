@@ -159,6 +159,16 @@ h1 span{
   height: 100%;
   opacity: 0.6;
 }
+.clients .carousel {
+  z-index: 99;
+}
+.clients img.rounded-circle {
+  margin-bottom: 150px;
+  margin-top: 50px;
+}
+.clients .carousel-indicators{
+  bottom: 0;
+}
 .choose-us a {
   display: inline-block;
   color: rgb(233, 153, 99);
@@ -194,7 +204,18 @@ h1 span{
 }
 .stats{
 padding: 100px 0;
-  color: #E91E63;
+color: #fff;
+background: url("../img/05.png") repeat-x fixed top center;
+position: relative;
+}
+.stats .overlay{
+  background: #111;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  opacity: 0.6;
 }
 .stats .number{
   display: block;
@@ -202,9 +223,118 @@ padding: 100px 0;
   font-weight: bold;
 }
 .stats p{
-  color: #6a6a6a;
+  color: #fff;
   font-size: 20px;
+  margin: 0;
+  font-weight: 500;
 }
 .stat-box{
   margin-bottom: 40px;
+}
+.contact-us{
+  padding:50px 0;
+  background-color: #E91E63;
+  color: #fff;
+  font-size:22px;
+}
+
+.contact-us p{
+  margin: 0;
+}
+.contact-us a{
+  color: #fff;
+  border:2px solid #fff;
+  padding: 8px 15px 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.footer{
+  padding: 100px 0;
+  position: relative;
+}
+.footer .site-info h2{
+  font-size:50px;
+  margin-bottom: 35px;
+}
+.footer .site-info p{
+line-height: 1.8;
+color:#6a6a6a;
+}
+.footer .site-info a{
+color:#E91E63;
+font-size:15px;
+font-weight: bold;
+}
+.footer .site-info a::before{
+  content: "\f138";
+  display:inline-block;
+  font-family: "FontAwesome";
+  margin-right: 5px;
+
+}
+.footer .site-info h2 span:first-child{
+  color:#E91E63;
+  font-size: 50px;
+  font-weight: 500;
+}
+.footer .site-info h2 span:last-child{
+  color:#444;
+  font-size:40px;
+  font-weight: 700;
+}
+.footer .helpful-links h2,
+.footer .contact h2{
+font-size:22px;
+font-weight: 700;
+margin-bottom: 64px;
+color: #444;
+}
+.footer .helpful-links ul li::before{
+  content: "\f054";
+  display:inline-block;
+  font-family: "FontAwesome";
+  margin-right: 5px;
+  color:#E91E63;
+  font-size: 12px;
+  position: relative;
+  top:-1;
+}
+.footer .contact ul li{
+  margin-bottom: 24px;
+}
+
+#particles {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  z-index: -2;
+}
+
+.iconmelon {
+  display: block;
+  margin: auto;
+}
+
+.iconmelon,
+.im {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  display: block;
+  fill: #525151;
+}
+
+.iconmelon:after,
+.im:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
