@@ -171,6 +171,8 @@ h1 span{
 }
 .choose-us h1 {
   margin: 40px;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 .choose-us p {
   line-height: 2;
@@ -190,7 +192,19 @@ h1 span{
 .choose-us img {
   max-width: 100%;
 }
-.latest-posts h2 {
-  text-transform: uppercase;
-  font-weight: 500;
+.stats{
+padding: 100px 0;
+  color: #E91E63;
+}
+.stats .number{
+  display: block;
+  font-size:50px;
+  font-weight: bold;
+}
+.stats p{
+  color: #6a6a6a;
+  font-size: 20px;
+}
+.stat-box{
+  margin-bottom: 40px;
 }

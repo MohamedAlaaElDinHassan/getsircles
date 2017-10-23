@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3a82fe-0f28-4e82-8ca7-1d1444b90831" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Get.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/4ae66900801a100f4d5e768889624c8bf03736f3/style.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/4ae66900801a100f4d5e768889624c8bf03736f3/style.cssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/4ae66900801a100f4d5e768889624c8bf03736f3/style.scssc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -15,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="220" column="23" lean-forward="false" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="23" />
+            <state relative-caret-position="170">
+              <caret line="298" column="41" lean-forward="false" selection-start-line="298" selection-start-column="41" selection-end-line="298" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+            <state relative-caret-position="380">
+              <caret line="208" column="21" lean-forward="false" selection-start-line="208" selection-start-column="21" selection-end-line="208" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -43,10 +50,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.sass" />
         <option value="$PROJECT_DIR$/css/style.scss" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -58,10 +65,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="265" />
-    <option name="y" value="84" />
-    <option name="width" value="703" />
-    <option name="height" value="690" />
+    <option name="x" value="529" />
+    <option name="y" value="77" />
+    <option name="width" value="695" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,15 +136,15 @@
       <workItem from="1508483083577" duration="25352000" />
       <workItem from="1508591406794" duration="2441000" />
       <workItem from="1508593899065" duration="7808000" />
-      <workItem from="1508606266997" duration="1449000" />
+      <workItem from="1508606266997" duration="5834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44302000" />
+    <option name="totallyTimeSpent" value="48687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="84" width="1282" height="775" extended-state="6" />
+    <frame x="-1" y="0" width="1282" height="775" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17909238" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -238,18 +245,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.sass" />
     <entry file="file://$PROJECT_DIR$/css/style.scss" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="220" column="23" lean-forward="false" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="208" column="21" lean-forward="false" selection-start-line="208" selection-start-column="21" selection-end-line="208" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="183" column="22" lean-forward="false" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="298" column="41" lean-forward="false" selection-start-line="298" selection-start-column="41" selection-end-line="298" selection-end-column="41" />
           <folding />
         </state>
       </provider>
